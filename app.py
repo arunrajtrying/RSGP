@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 # Title
-st.title("🗣️ Random Sentence Generator")
+st.title("🗣️ KRCE IT Department Welcomes for Random Sentence Generator")
 
 # Word lists
 subjects = ["The cat", "A robot", "My friend", "The teacher", "An alien"]
